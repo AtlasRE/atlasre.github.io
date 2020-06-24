@@ -5,6 +5,7 @@ date: 2019-03-28
 tags: android
 ---
 #### 方法来自[这里](https://blog.csdn.net/Mr_Leixiansheng/article/details/84942589)
+<!-- more -->
 
 android 8.0以上版本修改了notification的使用方法。如果按如下以前版本的方法调用 `NotificationCompat.Builder`，则会显示已经被弃用：
 ```java
