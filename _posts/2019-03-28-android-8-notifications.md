@@ -1,7 +1,7 @@
 ---
 layout: post
 title: android 8.0及以上版本的通知显示
-date: 2019-03-28 21:48:56
+date: 2019-03-28
 tags: android
 ---
 #### 方法来自[这里](https://blog.csdn.net/Mr_Leixiansheng/article/details/84942589)
