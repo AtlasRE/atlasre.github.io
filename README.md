@@ -1,2 +1,2 @@
-## Read Me
+## AtlasRE.github.io
 A simple blog powered by Jekyll. [theme](https://github.com/FromEndWorld/LOFFER)
