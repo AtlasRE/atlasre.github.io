@@ -12,8 +12,8 @@ tags: 闲扯
 “赛博朋克”的核心，在于高层对底层的控制、在于塑造一种具有压迫感的环境。这种氛围的塑造通常通过巨型建筑物与其之间狭小的街道呈现，配以昏暗的灯光和阴沉的天空，给人一种强烈的压迫感。而也因此，与“赛博朋克”相关的作品，大多带有一些反乌托邦的精神。在这样的世界中生活着的人们，明知在看似光鲜、科技发达的城市中潜藏着的黑暗与污秽，却仍旧热爱生活，并且向往着光明与希望。这便是“朋克”的意义所在。
 
 <figure>
-<img src="https://raw.githubusercontent.com/AtlasRE/AtlasRE.github.io/master/images/chongqing-1.jpg" />
-<img src="https://raw.githubusercontent.com/AtlasRE/AtlasRE.github.io/master/images/chongqing-2.jpg" />
+<img src="https://atlasre.github.io/images/chongqing-1.jpg" />
+<img src="https://atlasre.github.io/images/chongqing-2.jpg" />
 </figure>
 
 我想起在重庆街头游览的经历，路面绝对不算整洁，常年的水汽使得低层高的老旧小区墙皮破损严重。藤曼攀附在废弃的酒店墙头，然而抬头一看，前面正好是仿佛有一万层高的朝天门广场。这种低生活和高建筑之间的落差恰恰是最赛博朋克的部分。巨大的高架桥底端搭建着简易的工棚，工人们在夕阳照射的浓雾中喝着啤酒；夜市里人们在昏暗的路灯下吃串串与抄手，远处是巨大建筑物闪烁着的霓虹灯……人们眉飞色舞的交谈，川蜀口音我甚至无法完全听懂，但却让城市中每一条狭小的街道变得充满生机。
