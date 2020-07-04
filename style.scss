@@ -352,6 +352,9 @@ img {
 .site-info {
   text-align:center;
   margin: 100px auto 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 
   @include mobile {
     float: none;
@@ -363,9 +366,6 @@ img {
     margin:0 auto;
     // margin-top: 50px;
     // display: block;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     max-width: 200px;
     max-height: 200px;
 
