@@ -22,32 +22,29 @@ Liam自大到什么地步呢？用他自己的话来说：
 
 简单翻译一下：1，我是上帝；2，我的音乐和列侬一样牛逼。
 
-不过这两个人也是我见过最能诠释“傲娇”一词含义的两人。对于买了票来听他们唱歌的粉丝，这大概是一个典型的Noel式答复：
-![pic1](/images/definitely-maybe-1.jpg)
-
 就是这样的两个人，写出了我认为世界上最牛逼的音乐。我想来想去，大概是因为他们什么都说，也什么都敢说，更什么都能写进歌里。
 
 我今天高兴了，那我就写一首歌，告诉你我是地球上最屌的人：
-> I need to be myself
-> I can't be no one else
-> I'm feeling supersonic
-> Give me gin and tonic
-> You can have it all but how much do you want it...
+> I need to be myself<br>
+> I can't be no one else<br>
+> I'm feeling supersonic<br>
+> Give me gin and tonic<br>
+> You can have it all but how much do you want it...<br>
 > Oasis - 《Supersonic》
 
 哪天我累了，躺在床上懒得动了，也得给你写一首歌：
-> But I don't mind
-> As long as there's a bed beneath the stars that shine
-> I'll be fine, if you give me a minute
-> A man's got a limit
-> I can't get a life if my hearts not in it...
+> But I don't mind<br>
+> As long as there's a bed beneath the stars that shine<br>
+> I'll be fine, if you give me a minute<br>
+> A man's got a limit<br>
+> I can't get a life if my hearts not in it...<br>
 > Oasis - 《The importance of being idle》
 
 或者哪天我发现你伤心了，那我得赶快安慰安慰你。你听着：
-> Cos all of the stars, are fading away
-> Just try not to worry, you will see them someday
-> Take what you need, and be on your way
-> And stop crying your heart out...
+> Cos all of the stars, are fading away<br>
+> Just try not to worry, you will see them someday<br>
+> Take what you need, and be on your way<br>
+> And stop crying your heart out...<br>
 > Oasis - 《Stop crying your heart out》
 
 **挺二的，但是很真实。不是吗？**
