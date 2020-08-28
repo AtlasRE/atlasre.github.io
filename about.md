@@ -3,13 +3,14 @@ layout: page
 title: 关于我
 permalink: /about/
 ---
+### 关于 `imktirr`
+- `imktirr` 是我的名字 `weiming` 以 `michael` 作为密钥，使用[维吉尼亚密码(Vigenère Cipher)](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher)加密得到的密文。
 
-- 社交网站上常用的昵称是“AtlasRE”。名字的来源如下：
-    - 看了《惊天魔盗团》并且很喜欢，其中由Jesse Eisenberg饰演的主角名叫J.Daniel Atlas
-    - 曾经很喜欢的乐队Coldplay为《饥饿游戏2：星火燎原》创作的主题曲名为《Atlas》
-    - 感觉Atlas这个单词很酷
-    - 本来打算在Atlas后面加上自己的姓氏拼音，但看起来有点蠢。于是只保留了拼音的前两个字母
+### 关于我
 - 最喜欢的音乐流派是英伦摇滚
-- 虽然几乎不看动漫，但意外地喜欢看《JOJO的奇妙冒险》
+- 虽然几乎不看动漫，但意外地觉得《JOJO的奇妙冒险》还不错
 - 觉得猫头鹰很可爱
 - 喜欢玩ARPG类游戏，尤其喜欢魂系列。坚持认为《黑暗之魂2》是魂系列中最好的一代
+
+### 展示柜
+- [noteMD](https://github.com/imktirr/noteMD) : 一个简单的安卓markdown记事本
